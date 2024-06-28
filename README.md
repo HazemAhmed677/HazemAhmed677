@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hazem</h1>
 <h3 align="center">A passionate flutter developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Mvvm, Responsive ui**
+- 🌱 I’m currently learning **MVVM, Responsive ui**
 
 - 💬 Ask me about **anything related with flutter**
 
