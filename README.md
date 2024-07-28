@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hazem</h1>
 <h3 align="center">A passionate flutter developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hazemahmed677&label=Profile%20views&color=0e75b6&style=flat" alt="hazemahmed677" /> </p>
-
 - 🌱 I’m currently learning **Flutter framework**
 
 - 💬 Ask me about **anything related with flutter**
